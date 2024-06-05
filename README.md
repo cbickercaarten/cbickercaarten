@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi, I'm Charlie Bicker Caarten</h1>
-<h3 align="center">I am a 2nd year at UCLA passionate in the intersection between finance and AI.</h3>
+<h3 align="center">I am a 2nd year at UCLA passionate about the intersection between finance and AI.</h3>
 
 
 - 🔭 I’m currently working on **A Web3 based rideshare app.**
 
 - 🌱 I’m currently learning **TypeScript, Machine Learning, Advanced Financial Modeling**
 
-- 👯 I’m looking to collaborate on **Financial or AI related projects**
+- 👯 I’m looking to collaborate on **Financial or AI-related projects**
 
 - 🤝 I’m looking for help with **Projects that make a profound impact on the people around me.**
 
-- 👨‍💻 All of my projects are available on Github
+- 👨‍💻 All of my projects are available on GitHub
 
-- 📫 How to reach me **charliebc@ucla.edu**
+- 📫 How to reach me **LINKEDIN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
