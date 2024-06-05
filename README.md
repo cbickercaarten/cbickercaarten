@@ -3,7 +3,7 @@
 <h3 align="center">I am a 2nd year at UCLA passionate in the intersection between finance and AI.</h3>
 
 
-- 🔭 I’m currently working on **Runna, a Web3 based rideshare app.**
+- 🔭 I’m currently working on **A Web3 based rideshare app.**
 
 - 🌱 I’m currently learning **TypeScript, Machine Learning, Advanced Financial Modeling**
 
